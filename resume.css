@@ -6,39 +6,39 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6{
 h1{
 	font-family: 'Oswald', sans-serif;
 	font-weight: 400;
-	font-size: 48pt;
+	font-size: 47pt;
 }
 
 h2{
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-weight: 300;
-	font-size: 19pt;
+	font-size: 20pt;
 }
 
 h3{
 	font-family: 'Oswald', sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 	font-size: 24pt;
-	margin-top:20px;
 }
 
 h4{
 	font-family: 'Oswald', sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 	font-size: 15pt;
 }
 
 h5{
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-weight: 300;
 	font-size: 14pt;
 }
 
 h6{
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-weight: 300;
 	font-size: 15pt;
-	margin-top: 10px;
+	margin-top: 0px;
+	margin-bottom: 15px;
 }
 
 span{
@@ -47,16 +47,16 @@ span{
 }
 
 .text {
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
-	font-size:13pt;
+	font-size:11pt;
 	display:block;
 }
 
 .bold-text {
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
-	font-size:13pt;
+	font-size:11pt;
 	display:block;
 }
 
@@ -72,8 +72,8 @@ span{
 
 .bar-text{
 	color: #ffffff;
-	font-family: 'Roboto Condensed', sans-serif;
-	font-weight: 700;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 	font-size:11pt;
 	display: block;
 	padding-top: 2px;
@@ -92,11 +92,11 @@ span{
 }
 
 .medium-top-margin{
-	margin-top:25px;
+	margin-top:20px;
 }
 
 .large-top-margin{
-	margin-top:45px;
+	margin-top:30px;
 }
 
 .header{
