@@ -13,7 +13,7 @@
    height="990"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="resume-page2.svg">
   <defs
      id="defs4" />
@@ -24,14 +24,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="440.95385"
-     inkscape:cy="402.98119"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="310.06824"
+     inkscape:cy="340.2601"
      inkscape:document-units="in"
      inkscape:current-layer="g4050"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -319,7 +319,7 @@
        transform="translate(0,-4.1757812e-6)">
       <text
          xml:space="preserve"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#515151;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:150%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#515151;fill-opacity:1;stroke:none"
          x="89.634636"
          y="658.98706"
          id="text4137-6-6"
@@ -339,7 +339,7 @@
            id="tspan3646"
            sodipodi:role="line"
            x="89.634636"
-           y="708.48706">Bachelor of Science</tspan><tspan
+           y="708.48706">BS in Management Information Systems</tspan><tspan
            sodipodi:role="line"
            x="89.634636"
            y="724.98706"
